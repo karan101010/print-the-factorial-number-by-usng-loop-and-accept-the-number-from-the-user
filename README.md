@@ -1,0 +1,1 @@
+# print-the-factorial-number-by-usng-loop-and-accept-the-number-from-the-user
